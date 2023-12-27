@@ -1,1 +1,35 @@
-# daiseo1
+<html>
+<head>
+<meta content="text/html; charset=ISO-8859-1"
+http-equiv="content-type">
+<title>Авиакомпания</title>
+</head>
+<body
+style="color: rgb(0, 0, 0); background-color: rgb(153, 255, 255); background-image: url(f9d82b3ed3bcdead03d1f6aa5895c6d6.jpeg);"
+alink="#000099" link="#000099" vlink="#990099">
+<div style="text-align: left;"><big style="font-weight: bold;"><big><big>&nbsp;
+<br>
+</big></big></big>
+<h1 style="text-align: center; background-color: rgb(204, 255, 255);"><big><span
+style="font-weight: bold;">AIRBUS</span></big></h1>
+<big style="font-weight: bold;"><big><big><br>
+</big></big></big>
+<div style="text-align: center;"><big style="font-weight: bold;"><big><big><a
+href="aero.html">Список аэропортов</a></big></big></big><br>
+<big style="font-weight: bold;"><big><big>&nbsp; </big></big></big><br>
+<big style="font-weight: bold;"><big><big><big><a href="bileti.html">Билеты</a></big></big></big>
+</big><br>
+&nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<big><big><span style="font-weight: bold;">&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp; </span></big></big><big><big><span
+style="font-weight: bold;">&nbsp; &nbsp; &nbsp;&nbsp; </span></big></big><br>
+<big>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</big><br>
+<big>&nbsp;&nbsp;<big><a href="sprav.html"><big
+style="font-weight: bold;"><big>Справочная</big></big></a></big></big><br>
+</div>
+</div>
+</body>
+</html>
+
